@@ -28,4 +28,4 @@
 
 
 
-[마이노션](https://www.notion.so/TFA-c4e522b68563464183f9efc698ba8260?pvs=4)
+[마이노션](https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4)
