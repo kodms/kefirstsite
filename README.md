@@ -28,4 +28,4 @@
 
 
 
-[마이노션](https://atentsgamedesign.notion.site/UXUI-58fbd6f6b6594252afe75f2e6078dd36?pvs=4)
+[마이노션](https://www.notion.so/TFA-c4e522b68563464183f9efc698ba8260?pvs=4)
