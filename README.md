@@ -30,7 +30,7 @@
 
 <a href="https://eunplayer.netlify.app/pages/page01">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20GDD%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20GDD%20바로가기-696969">
 </a>
 
 </details>
@@ -44,27 +44,27 @@
 <br>
 <a href="https://eunplayer.netlify.app/pages/page02">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20세계관%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20세계관%20바로가기-696969">
 </a>
 
 <a href="https://eunplayer.netlify.app/pages/page03">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20스토리%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20스토리%20바로가기-696969">
 </a>
 
 <a href="https://eunplayer.netlify.app/pages/page04">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20시나리오%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20시나리오%20바로가기-696969">
 </a>
 
 <a href="https://eunplayer.netlify.app/pages/page05-1">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20스토리보드%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20스토리보드%20바로가기-696969">
 </a>
 
 <a href="https://eunplayer.netlify.app/pages/page05-2">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20스토리보드%20컨셉%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20스토리보드%20컨셉%20바로가기-696969">
 </a>
 
 </details>
@@ -78,12 +78,12 @@
 <br>
 <a href="https://eunplayer.netlify.app/pages/page06">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20캐릭터%20컨셉%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20캐릭터%20컨셉%20바로가기-696969">
 </a>
 
 <a href="https://eunplayer.netlify.app/pages/page07">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20플레이어%20캐릭터%20모션%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20플레이어%20캐릭터%20모션%20바로가기-696969">
 </a>
 
 </details>
@@ -97,7 +97,7 @@
 <br>
 <a href="https://eunplayer.netlify.app/pages/page08">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20레벨%20컨셉%20및%20패스%20바로가기-696969)
+ <img src="https://img.shields.io/badge/TFA:침수지역%20레벨%20컨셉%20및%20패스%20바로가기-696969">
 </a>
 
 </details>
@@ -111,7 +111,7 @@
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1S0QaDVYsh37qqWoLFcu0UgxeE7nCXljY/edit#gid=10053658">
  
- ![js](https://img.shields.io/badge/TFA:침수지역%20몬스터%20및%20아이템%20워크리스트%20바로가기-696969)
+<img src="https://img.shields.io/badge/TFA:침수지역%20몬스터%20및%20아이템%20워크리스트%20바로가기-696969">
 </a>
 
 </details>
@@ -123,12 +123,12 @@
 
 <a href="https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4">
 
-![js](https://img.shields.io/badge/TFA:침수지역%20by%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://img.shields.io/badge/TFA:침수지역%20by%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
 <a href="https://eunplayer.netlify.app/" >
 
-![js](https://img.shields.io/badge/고은의%20포트폴리오%20by%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://img.shields.io/badge/고은의%20포트폴리오%20by%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 
 
