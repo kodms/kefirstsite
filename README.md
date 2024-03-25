@@ -30,7 +30,7 @@
 
 <a href="https://eunplayer.netlify.app/pages/page01">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20GDD%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20GDD%20바로가기-566270">
 </a>
 
 </details>
@@ -44,27 +44,27 @@
 <br>
 <a href="https://eunplayer.netlify.app/pages/page02">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20세계관%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20세계관%20바로가기-311e3e">
 </a>
-<br>
+<br><br>
 <a href="https://eunplayer.netlify.app/pages/page03">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20스토리%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20스토리%20바로가기-512645">
 </a>
-<br>
+<br><br>
 <a href="https://eunplayer.netlify.app/pages/page04">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20시나리오%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20시나리오%20바로가기-87314e">
 </a>
-<br>
+<br><br>
 <a href="https://eunplayer.netlify.app/pages/page05-1">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20스토리보드%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20스토리보드%20바로가기-df405a">
 </a>
-<br>
+<br><br>
 <a href="https://eunplayer.netlify.app/pages/page05-2">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20스토리보드%20컨셉%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20스토리보드%20컨셉%20바로가기-e97f02">
 </a>
 
 </details>
@@ -78,12 +78,12 @@
 <br>
 <a href="https://eunplayer.netlify.app/pages/page06">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20캐릭터%20컨셉%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20캐릭터%20컨셉%20바로가기-D499B9">
 </a>
-<br>
+<br><br>
 <a href="https://eunplayer.netlify.app/pages/page07">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20플레이어%20캐릭터%20모션%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20플레이어%20캐릭터%20모션%20바로가기-9055A2">
 </a>
 
 </details>
@@ -97,7 +97,7 @@
 <br>
 <a href="https://eunplayer.netlify.app/pages/page08">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20레벨%20컨셉%20및%20패스%20바로가기-696969">
+ <img src="https://img.shields.io/badge/TFA:침수지역%20레벨%20컨셉%20및%20패스%20바로가기-2E294E">
 </a>
 
 </details>
@@ -111,7 +111,7 @@
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1S0QaDVYsh37qqWoLFcu0UgxeE7nCXljY/edit#gid=10053658">
  
-<img src="https://img.shields.io/badge/TFA:침수지역%20몬스터%20및%20아이템%20워크리스트%20바로가기-696969">
+<img src="https://img.shields.io/badge/TFA:침수지역%20몬스터%20및%20아이템%20워크리스트%20바로가기-011638">
 </a>
 
 </details>
