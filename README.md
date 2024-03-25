@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Song+Myung&pause=1000&color=000000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+'TFA%3A%EC%B9%A8%EC%88%98%EC%A7%80%EC%97%AD'+%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D%EC%9E%90+%EA%B3%A0%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
-### ⛔ TFA:침수지역
+<p align="center"> <h1>⛔ TFA:침수지역</h1></p>
 
-<details>
+<details align="center">
 <summary >
  🙋‍♀️ 게임소개
 </summary>
@@ -11,7 +11,7 @@
   급격한 기후변화로 침수된 '테크베이시티'에서 '리베라'의 탈출 이야기.
 </details>
 <br>
-<details>
+<details align="center">
 <summary >
  🎮 게임플레이
 </summary>
@@ -37,7 +37,7 @@
 
 <br>
 
-<details>
+<details align="center">
 <summary >
  🌏 게임의 세계
 </summary>
@@ -71,7 +71,7 @@
 
 <br>
 
-<details>
+<details align="center">
 <summary >
  👨‍👩‍👧‍👦 캐릭터
 </summary>
@@ -90,7 +90,7 @@
 
 <br>
 
-<details>
+<details align="center">
 <summary >
  🌆 레벨디자인
 </summary>
@@ -104,7 +104,7 @@
 
 <br>
 
-<details>
+<details align="center">
 <summary >
  🧟‍♀️ 몬스터&아이템
 </summary>
@@ -120,17 +120,19 @@
 
 
 <br>
-
+<div align="center">
 <a href="https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4">
 
 <img src="https://img.shields.io/badge/TFA:침수지역%20by%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
+<br>
+
 <a href="https://eunplayer.netlify.app/" >
 
 <img src="https://img.shields.io/badge/고은의%20포트폴리오%20by%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
-
+</div>
 
 
 <!-- [TFA:침수지역](https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4) -->
