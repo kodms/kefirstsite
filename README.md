@@ -121,19 +121,17 @@
 </details>
 
 
-<hr />
+
 <br>
 <br>
 
-<table align="center" border="0" frameborder="0" >
-<td align="left" border="0" frameborder="0" >
+
 <div>
 <a href="https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4">
 
 <img src="https://img.shields.io/badge/TFA:침수지역%20by%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
-</td>
-<td align="right" border="0" frameborder="0">
+
 </div> 
 <div>
 <a href="https://eunplayer.netlify.app/" >
@@ -141,7 +139,6 @@
 <img src="https://img.shields.io/badge/고은의%20포트폴리오%20by%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 </div>
-</td>
 
 <br>
 <br>
