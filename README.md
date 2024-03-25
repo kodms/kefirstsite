@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Song+Myung&pause=1000&color=000000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+'TFA%3A%EC%B9%A8%EC%88%98%EC%A7%80%EC%97%AD'+%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D%EC%9E%90+%EA%B3%A0%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
-<p align="center"> <h1>⛔ TFA:침수지역</h1></p>
+<div align="center"> <h1>⛔ TFA:침수지역</h1></div>
+
+<br>
 
 <details align="center">
 <summary >
