@@ -1,21 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Song+Myung&pause=1000&color=000000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+'TFA%3A%EC%B9%A8%EC%88%98%EC%A7%80%EC%97%AD'+%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D%EC%9E%90+%EA%B3%A0%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Song+Myung&pause=1000&color=000000&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+'TFA%3A%EC%B9%A8%EC%88%98%EC%A7%80%EC%97%AD'+%EA%B2%8C%EC%9E%84%EA%B8%B0%ED%9A%8D%EC%9E%90+%EA%B3%A0%EC%9D%80%EC%9E%85%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+</div>
 <div align="center"> <h1>⛔ TFA:침수지역</h1></div>
 
 <br>
 
-<details align="center">
+<details >
 <summary >
- 🙋‍♀️ 게임소개
+ 🙋‍♀️ 게  임  소  개
 </summary>
  TFA:침수지역은 '물위의 소녀'에서 기획한 액션 RPG 플랫포머(메트로배니아) 게임입니다.
 <br>
   급격한 기후변화로 침수된 '테크베이시티'에서 '리베라'의 탈출 이야기.
 </details>
 <br>
-<details align="center">
+<details >
 <summary >
- 🎮 게임플레이
+ 🎮 게 임 플 레 이
 </summary>
 
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book" viewBox="0 0 16 16"> -->
@@ -39,9 +41,9 @@
 
 <br>
 
-<details align="center">
+<details >
 <summary >
- 🌏 게임의 세계
+ 🌏 게 임 의 세 계
 </summary>
 <br>
 <a href="https://eunplayer.netlify.app/pages/page02">
@@ -73,9 +75,9 @@
 
 <br>
 
-<details align="center">
+<details >
 <summary >
- 👨‍👩‍👧‍👦 캐릭터
+ 👨‍👩‍👧‍👦 캐 릭 터 설 정
 </summary>
 <br>
 <a href="https://eunplayer.netlify.app/pages/page06">
@@ -92,9 +94,9 @@
 
 <br>
 
-<details align="center">
+<details >
 <summary >
- 🌆 레벨디자인
+ 🌆 레  벨  디 자 인
 </summary>
 <br>
 <a href="https://eunplayer.netlify.app/pages/page08">
@@ -106,9 +108,9 @@
 
 <br>
 
-<details align="center">
+<details >
 <summary >
- 🧟‍♀️ 몬스터&아이템
+ 🧟‍♀️ 몬 스 터 & 아 이 템
 </summary>
 <br>
 <a href="https://docs.google.com/spreadsheets/d/1S0QaDVYsh37qqWoLFcu0UgxeE7nCXljY/edit#gid=10053658">
@@ -119,22 +121,29 @@
 </details>
 
 
-
-
+<hr />
 <br>
-<div align="center">
+<br>
+
+<table align="center">
+<td align="left" >
+<div>
 <a href="https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4">
 
 <img src="https://img.shields.io/badge/TFA:침수지역%20by%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
-
-<br>
-
+</td>
+<td align="right">
+</div> 
+<div>
 <a href="https://eunplayer.netlify.app/" >
 
 <img src="https://img.shields.io/badge/고은의%20포트폴리오%20by%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
 </div>
+</td>
 
+<br>
+<br>
 
 <!-- [TFA:침수지역](https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4) -->
