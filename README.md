@@ -127,7 +127,7 @@
 
 
 <div>
-<a href="https://rounded-cook-d4c.notion.site/TFA-c4e522b68563464183f9efc698ba8260?pvs=4?pvs=4">
+<a href="https://rounded-cook-d4c.notion.site/TFA-c857c5b2e8844367ba0304265c246817?pvs=4">
 
 <img src="https://img.shields.io/badge/TFA:침수지역%20by%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
