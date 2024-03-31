@@ -187,9 +187,9 @@
 <!-- </a> -->
 
 <!-- <br><br> -->
-<a href="https://eunplayer.netlify.app/pages/page04">
+<a href="https://eunplayer.netlify.app/pages/page10">
  
- <img src="https://img.shields.io/badge/TFA:침수지역%20시나리오%20바로가기-87314e">
+ <img src="https://img.shields.io/badge/Bellatrix%20옛날의%20빛%20시나리오%20바로가기-87314e">
 </a>
 <br><br>
 <!-- <a href="https://eunplayer.netlify.app/pages/page05-1"> -->
@@ -252,6 +252,8 @@
 </details>
 
 -->
+
+</details>
 <br>
 <br>
 
