@@ -254,6 +254,24 @@
 -->
 
 </details>
+
+<br>
+<br>
+
+<div align="center"> <h1> 🌌 South Pole Gate</h1></div>
+
+<details >
+<summary >
+ 🙋‍♀️ 게  임  소  개
+</summary>
+ South Pole Gate는 TEAM SPG가 기획한 현대 판타지 3D 백뷰 액션 RPG 게임이다. 
+
+<!-- <br> -->
+
+  <!-- 설정작성예정 -->
+</details>
+
+
 <br>
 <br>
 
